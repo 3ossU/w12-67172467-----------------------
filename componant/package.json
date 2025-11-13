@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://3ossU.github.io/w12-67172467--------------------/",
+  "homepage": "https://3ossU.github.io/w12-67172467-----------------------/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
