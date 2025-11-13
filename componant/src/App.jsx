@@ -34,7 +34,7 @@ function App() {
   }
 
   return (
-    <BrowserRouter basename='/csi205/'>
+    <BrowserRouter basename='/w12-67172467--------------------/'>
       <Routes>
         <Route element={<AppLayout products={products} carts={carts}  setToken={setToken} />}>
           <Route path='components' element={<Components />} />
