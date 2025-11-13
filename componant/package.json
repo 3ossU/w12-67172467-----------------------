@@ -5,8 +5,8 @@
   "type": "module",
   "homepage": "https://3ossU.github.io/csi205/",
   "scripts": {
-    "predeploy" : "npm run build",
-    "deploy" : "gh-pages ./dist",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages ./dist",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
